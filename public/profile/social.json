@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/mahesh-babu-maddela/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/MaheshMaddela123"
+        },
+        {
+            "network" : "email",
+            "href": "maddelamaheshbabu1234@gmail.com"
+        }
+    ]
+}

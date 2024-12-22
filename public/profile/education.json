@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Sep 2022 - May 2025",
+            "cardTitle": "B.Tech, Computer Science & engineering",
+            "cardSubtitle":"JNTUA College of Engineering, Pulivendula",
+            "cardDetailedText": "CGPA - 6.57"
+        },
+        {
+            "title": "April 2022",
+            "cardTitle": "Computer Science & Engineering",
+            "cardSubtitle":"Loyola Polytechnic (YSRR), Pulivendulaa",
+            "cardDetailedText": "Percentage - 74.4%"
+        }
+    ]
+}

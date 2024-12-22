@@ -1,0 +1,14 @@
+{
+    "experiences": [
+        {
+            "title": "MERN Stack",
+            "subtitle": "Brain' o Vision",
+            "workType": "Internship",
+            "workDescription": [
+                "Duration 2 Months.",
+                "Learned and Created MERN Stack Web Applications."
+            ],
+            "dateText": "May - June"
+        }
+    ]
+}

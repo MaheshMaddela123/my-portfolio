@@ -1,0 +1,80 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/portfolio.png",
+            "title": "My Portfolio",
+            "bodyText": "- This is my portfolio website. \n - The website contains details about me, my skills, and my projects.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MaheshMaddela123/my-portfolio.git"
+                },
+                {
+                    "text": "Live Demo",
+                    "href": "https://maheshmaddela123.github.io/my-portfolio/"
+                }
+            ],
+            "tags": [
+                "React"
+            ]
+        },
+        {
+            "image": "images/projects/jokegen.png",
+            "title": "Random Joke Generator",
+            "bodyText": "- This is a simple React website. \n - It generates random jokes when you click on **Generate Joke**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MaheshMaddela123/jokegen.git"
+                },
+                {
+                    "text": "Live Demo",
+                    "href": "https://jokegenerate.netlify.app/"
+                }
+            ],
+            "tags": [
+                "React",
+                "API"
+            ]
+        },
+        {
+            "image": "images/projects/weather.png",
+            "title": "Weather Forecasting",
+            "bodyText": "- This is a **Weather Forecasting** website. \n - It provides live weather reports for a week (7 days).\n - It uses APIs to generate the weather reports.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MaheshMaddela123/weather4-cast"
+                },
+                {
+                    "text": "Live Demo",
+                    "href": "https://weather4-cast.netlify.app/"
+                }
+            ],
+            "tags": [
+                "React",
+                "API"
+            ]
+        },
+        {
+            "image": "images/projects/blood.png",
+            "title": "Blood Donation Portal",
+            "bodyText": "- A Blood Donation Website that helps during emergencies.\n - It connects users directly.\n - It facilitates communication between donors and patients.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MaheshMaddela123/blood-donate"
+                },
+                {
+                    "text": "Live Demo",
+                    "href": "https://blood-donate-frontend.onrender.com"
+                }
+            ],
+            "tags": [
+                "React",
+                "NodeJs",
+                "MongoDb"
+            ]
+        }
+    ]
+}
